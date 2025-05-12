@@ -3,7 +3,7 @@ public class Bitch {
         int i = 1;
 
 
-        int x = 1;
+        long x = 1;
         while (i <= 10) {
 
 
